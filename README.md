@@ -1,3 +1,5 @@
-Example - LabWork 2
+Example - LabWork 2 
+
 TextEditor - LabWork 3
+
 Calc - LabWork 4
