@@ -1,0 +1,10 @@
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\bin\Release\netstandard2.1\NetStandardLab.deps.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\bin\Release\netstandard2.1\NetStandardLab.dll
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\bin\Release\netstandard2.1\NetStandardLab.pdb
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.AssemblyInfoInputs.cache
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.AssemblyInfo.cs
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.csproj.CoreCompileInputs.cache
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.sourcelink.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.dll
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\NetStandardLab\obj\Release\netstandard2.1\NetStandardLab.pdb

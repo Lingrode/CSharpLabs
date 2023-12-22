@@ -1,0 +1,17 @@
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\bin\Debug\netcoreapp3.1\NetStandardLab.dll
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.AssemblyReference.cache
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.sourcelink.json
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CopyComplete
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\Univer\4 kurs\Архітектура .NET\CSharpLabs\lab5\NetCore\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache

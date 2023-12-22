@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <LangVersion>10.0</LangVersion>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RuntimeIdentifiers>linux-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <Reference Include="NetStandardLab.dll" Version="1.0.0">
+    <HintPath>NetStandardLab.dll</HintPath>
+  </Reference>
+</ItemGroup>
+
+</Project>
