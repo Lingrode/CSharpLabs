@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MahqNakyMnLnZeY0Q9GmGKC375xFYKMRLsBrhRZuJQJriVzXKCb0abhgUdu4rw192Z2u7qYexO95XXMCH3opg==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\4 kurs\\Архітектура .NET\\CSharpLabs\\lab5\\NetCore\\lab5\\lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.32\\microsoft.netcore.app.runtime.linux-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.32\\microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.32\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\grima\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.32\\microsoft.netcore.app.host.win-x86.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
